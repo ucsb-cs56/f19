@@ -48,7 +48,7 @@ You may work individually or as a pair on this lab.  However, if you work as a p
 
 If there is some reason this is not feasible, please check with your mentor before starting.
 
-Create your repo the same way you did for [lab01](/lab/lab01/)
+Create your repo the same way you did for [lab01]({{site.baseurl}}/lab/lab01/)
    * under the <tt>{{page.org}}</tt> organization
    * name should be <tt>{{page.num}}-githubid</tt> OR <tt>{{page.num}}-githubid1-githubid2</tt> as appropriate
    * private, and initially *empty* (no README.md, .gitignore or LICENSE).
