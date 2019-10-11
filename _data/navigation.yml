@@ -22,13 +22,13 @@ main_dropdown:
    title: Resources
    items:
      - title: Topics
-       url: /topic_list/
+       url: /topics/
      - title: Resources
-       url: /resource_list/
+       url: /resources/
      - title: Tutorials
-       url: /tutorial_list/
+       url: /tutorials/
      - title: Textbooks
-       url: /textbook_list/       
+       url: /textbooks/       
 
 offering_menus:
   -
